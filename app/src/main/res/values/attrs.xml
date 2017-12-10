@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+
+    <!-- 长按拖拽特定子view的ConstraintLayout -->
+    <declare-styleable name="DragConstraintLayout">
+        <attr name="drag_view_id" format="reference" />
+    </declare-styleable>
+
+</resources>
